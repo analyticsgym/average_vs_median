@@ -4,7 +4,7 @@ Average vs Median comparison
 ### Notebook objective
 
   - Generate visualizations to show non-technical stakeholders how an
-    underlying data distribution influence an average or median metric
+    underlying data distribution can influence an average or median metric
 
 ### Metrics
 
